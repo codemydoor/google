@@ -1,0 +1,140 @@
+
+.headertext{
+    position: absolute;
+    left: 76rem;
+    top: 2rem;
+}
+.headertext a{
+    margin: 0.7rem;
+}
+.searchbox{
+    width: 35rem;
+    height: 43px;
+    border-radius: 2rem;
+    position: absolute;;
+    top: 21rem;
+    left: 25rem;
+    outline: none;
+    border: 0.04rem solid;
+    padding-left: 2.7rem;
+    font-size: larger;
+}
+
+.buttons{
+    position: absolute;
+    top: 24rem;
+    left: 33rem;
+}
+button{
+    cursor: pointer;;
+}
+.lang{
+    position: absolute;
+    top: 29rem;
+    left: 35rem;
+}
+.icons{
+    position: absolute;
+    top: 21.9rem;
+    left: 26.5rem;
+    color: rgb(156, 154, 154);
+}
+.image{
+    width: 17rem;
+    height:6rem;
+    position: absolute;
+    top: 14rem;
+    left: 35rem;
+}
+.forefooter{
+    position: relative;
+    top: 43.3rem;
+    height: 2.5rem;
+    width: 89rem;
+    background-color: whitesmoke;
+    margin-left: none;
+    border-top: 0.001rem solid lightslategray;
+    border-bottom: 0.001rem solid lightslategray;
+}
+.footer{
+    position: absolute;
+    top: 46.3rem;
+    height: 2.5rem;
+    width: 89rem;
+    background-color:  whitesmoke;
+    
+}
+.footer a{
+    margin: 1rem;
+    
+}
+
+.footertext{
+    position: absolute;
+    left: 74rem;
+    top: 1rem;
+}
+.footertext1{
+    position: absolute;
+    top: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
